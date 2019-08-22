@@ -36,7 +36,7 @@
 
 /* video content heading */
 .box1 h1{
-    font-size: 50px;
+    font-size: 30px;
     font-weight: 100;
     text-transform: uppercase;
     letter-spacing: 20px;
@@ -100,7 +100,7 @@
 }
 
 .box1 .buttonStream{
-    padding: 14px;
+    padding: 18px;
     background: #2ecc71;
     border:#2ecc71 2px solid;
 }
