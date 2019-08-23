@@ -112,6 +112,14 @@
     border: #f9ca24 1px solid
 } */
 
+.box1Con .controls button{
+    background: none;
+    color: #fff;
+    margin-top:100px; 
+    border : 0;
+    font-weight: 100;
+}
+
 
 /* some Media Queries */
 /* width 990px */
